@@ -56,6 +56,13 @@ Cloud Manager를 사용하면 다음 유형의 작업 환경 간에 데이터를
 * 온프레미스 ONTAP 클러스터
 
 
+
+
+| ONTAP용 Amazon FSx  a| 
+* ONTAP용 Amazon FSx
+* 온프레미스 ONTAP 클러스터
+
+
 |===
 
 
