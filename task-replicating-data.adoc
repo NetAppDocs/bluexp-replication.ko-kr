@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: task-replicating-data.html 
-keywords: ontap, cluster, discover, manage, cloud manager, hybrid cloud, replication policy, policy, replication, replicating, snapmirror, snapvault, data replication, fanout, cascade, source, destination, schedule, relationship, max transfer, maximum transfer rate, rate, transfer rate, intercluster lif, replication requirement, requirements, disaster recovery, DR, archive, archiving, retention, amazon fsx for ontap, fsx for ontap 
-summary: Cloud Manager 작업 환경 간에 데이터를 복제할 수 있습니다. 1회 데이터 복제를 선택하여 데이터를 클라우드 간에 이동하거나, 재해 복구 또는 장기 보존을 위한 반복 일정을 선택할 수 있습니다. 
+keywords: ontap, cluster, discover, manage, BlueXP, hybrid cloud, replication policy, policy, replication, replicating, snapmirror, snapvault, data replication, fanout, cascade, source, destination, schedule, relationship, max transfer, maximum transfer rate, rate, transfer rate, intercluster lif, replication requirement, requirements, disaster recovery, DR, archive, archiving, retention, amazon fsx for ontap, fsx for ontap 
+summary: 데이터 전송을 위한 일회성 데이터 복제 또는 재해 복구 또는 장기 보존을 위한 반복 일정을 선택하여 ONTAP 작업 환경 간에 데이터를 복제할 수 있습니다. 예를 들어, 재해 복구를 위해 사내 ONTAP 시스템에서 Cloud Volumes ONTAP로 데이터 복제를 설정할 수 있습니다. 
 ---
 = 데이터 복제 설정
 :hardbreaks:
@@ -81,6 +81,7 @@ ONTAP용 Amazon FSx에 대한 요구 사항::
 1회 데이터 복제를 선택하여 데이터를 복제할 수 있습니다. 이 복제를 사용하면 클라우드 간에 데이터를 이동하거나, 재해 복구 또는 장기 보존에 도움이 되는 반복 일정을 선택할 수 있습니다.
 
 .단계
+. 탐색 메뉴에서 * Storage > Canvas * 를 선택합니다.
 . Canvas에서 소스 볼륨이 포함된 작업 환경을 선택하고 볼륨을 복제할 작업 환경으로 끈 다음 * Replication * 을 선택합니다.
 +
 image:screenshot-drag-and-drop.png["스크린샷: 데이터 복제 프로세스를 시작하기 위해 다른 작업 환경 위에 작업 환경을 배치하는 것을 보여 줍니다."]
@@ -119,4 +120,4 @@ image:screenshot-drag-and-drop.png["스크린샷: 데이터 복제 프로세스�
 . * Review * (검토 *): 선택 사항을 검토하고 * Go * (이동 *)를 클릭합니다.
 
 
-Cloud Manager가 데이터 복제 프로세스를 시작합니다. 복제 서비스에서 볼륨 관계에 대한 세부 정보를 볼 수 있습니다.
+BlueXP는 데이터 복제 프로세스를 시작합니다. 복제 서비스에서 볼륨 관계에 대한 세부 정보를 볼 수 있습니다.

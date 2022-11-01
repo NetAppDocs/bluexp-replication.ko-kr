@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-managing-replication.html 
 keywords: replication policy, policy, replication, replicating, snapmirror, snapvault, data replication, source, destination, schedule, relationship, break, resync, max transfer, maximum transfer rate, rate, transfer rate, reverse resync, status, replication status, disaster recovery, DR, archive, archiving, retention 
-summary: 두 시스템 간에 데이터 복제를 설정한 후에는 Cloud Manager에서 데이터 복제 일정과 관계를 관리할 수 있습니다. 
+summary: 두 시스템 간에 데이터 복제를 설정한 후에는 BlueXP의 데이터 복제 일정 및 관계를 관리할 수 있습니다. 
 ---
 = 일정 및 관계 관리
 :hardbreaks:
@@ -14,10 +14,10 @@ summary: 두 시스템 간에 데이터 복제를 설정한 후에는 Cloud Mana
 
 
 [role="lead"]
-두 시스템 간에 데이터 복제를 설정한 후에는 Cloud Manager에서 데이터 복제 일정과 관계를 관리할 수 있습니다.
+두 시스템 간에 데이터 복제를 설정한 후에는 BlueXP의 데이터 복제 일정 및 관계를 관리할 수 있습니다.
 
 .단계
-. 복제 * 를 클릭합니다.
+. 탐색 메뉴에서 * 보호 > 복제 * 를 선택합니다.
 . 데이터 복제 관계의 상태를 검토하여 상태가 양호한지 확인합니다.
 +
 
@@ -68,4 +68,4 @@ NOTE: 볼륨을 재동기화하면 대상 볼륨의 내용이 소스 볼륨의 �
 |===
 
 
-작업을 선택하면 Cloud Manager에서 관계 또는 일정을 업데이트합니다.
+작업을 선택하면 BlueXP에서 관계 또는 일정을 업데이트합니다.

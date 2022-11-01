@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-replication-policies.html 
 keywords: replication policy, policy, replication, replicating, snapmirror, snapvault, data replication, disaster recovery, DR 
-summary: Cloud Manager 작업 환경 간에 데이터를 복제할 수 있습니다. 1회 데이터 복제를 선택하여 데이터를 클라우드 간에 이동하거나, 재해 복구 또는 장기 보존을 위한 반복 일정을 선택할 수 있습니다. 
+summary: BlueXP 작업 환경 간에 데이터를 복제할 수 있습니다. 1회 데이터 복제를 선택하여 데이터를 클라우드 간에 이동하거나, 재해 복구 또는 장기 보존을 위한 반복 일정을 선택할 수 있습니다. 
 ---
 = 복제 정책에 대해 자세히 알아보십시오
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager 작업 환경 간에 데이터를 복제할 수 있습니
 
 
 [role="lead"]
-Cloud Manager에서 데이터 복제를 설정할 때 복제 정책을 선택하는 데 도움이 필요할 수 있습니다. 복제 정책은 스토리지 시스템이 소스 볼륨에서 대상 볼륨으로 데이터를 복제하는 방법을 정의합니다.
+BlueXP에서 데이터 복제를 설정할 때 복제 정책을 선택하는 데 도움이 필요할 수 있습니다. 복제 정책은 스토리지 시스템이 소스 볼륨에서 대상 볼륨으로 데이터를 복제하는 방법을 정의합니다.
 
 
 

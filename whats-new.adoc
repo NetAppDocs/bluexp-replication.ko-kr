@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
-summary: 복제 서비스의 새로운 기능에 대해 알아보십시오. 
+summary: 'BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기능에 대해 알아보십시오.' 
 ---
 = 새로운 기능
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 복제 서비스의 새로운 기능에 대해 알아보십시오.
 
 
 [role="lead"]
-복제 서비스의 새로운 기능에 대해 알아보십시오.
+BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기능에 대해 알아보십시오.
 
 
 
