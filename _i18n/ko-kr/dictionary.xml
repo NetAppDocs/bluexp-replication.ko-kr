@@ -311,4 +311,7 @@
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾습니다.</block>
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">위의 2단계에서 계정의 일련 번호를 복사하고 보안 검색을 완료한 다음 NetApp의 글로벌 데이터 개인 정보 보호 정책을 읽는지 확인합니다.</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">일련 번호 필드에 위에서 사용된 계정 일련 번호(960xxxx)를 복사해 주십시오. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">작업을 마친 후</block>
 </blocks>
