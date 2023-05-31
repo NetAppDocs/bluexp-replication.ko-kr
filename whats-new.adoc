@@ -26,7 +26,7 @@ BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기능에 대�
 
 이제 ONTAP 파일 시스템용 Amazon FSx에서 Cloud Volumes ONTAP로 데이터를 복제할 수 있습니다.
 
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
 
 
 
@@ -42,7 +42,7 @@ https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.ht
 * 사내 ONTAP 클러스터
 
 
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
 
 
 
@@ -54,7 +54,7 @@ https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.ht
 
 이제 Cloud Volumes ONTAP 시스템 또는 온프레미스 ONTAP 클러스터에서 ONTAP 파일 시스템용 Amazon FSx로 데이터를 복제할 수 있습니다.
 
-https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
 
 
 
@@ -66,4 +66,4 @@ https://docs.netapp.com/us-en/cloud-manager-replication/task-replicating-data.ht
 
 사용 편의성과 Cloud Manager 사용자 인터페이스의 현재 모양과 느낌을 맞추기 위해 Replication 탭을 다시 설계했습니다.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-replication/main/media/replication.gif["볼륨 관계 목록을 보여 주는 Cloud Manager의 재설계된 복제 탭 스크린샷"]
+image:https://raw.githubusercontent.com/NetAppDocs/bluexp-replication/main/media/replication.gif["볼륨 관계 목록을 보여 주는 Cloud Manager의 재설계된 복제 탭 스크린샷"]

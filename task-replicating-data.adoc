@@ -25,12 +25,12 @@ summary: 데이터 전송을 위한 일회성 데이터 복제 또는 재해 복
 작업 환경:: 아직 작성하지 않은 경우 데이터 복제 관계에서 소스와 타겟의 작업 환경을 생성해야 합니다.
 +
 --
-* https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/start/task-getting-started-fsx.html["ONTAP 작업 환경을 위한 Amazon FSx를 생성합니다"^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploying-otc-aws.html["AWS에서 Cloud Volumes ONTAP를 시작합니다"^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploying-otc-azure.html["Azure에서 Cloud Volumes ONTAP를 실행합니다"^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploying-gcp.html["GCP에서 Cloud Volumes ONTAP를 시작합니다"^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-adding-systems.html["기존 Cloud Volumes ONTAP 시스템을 추가합니다"^]
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["ONTAP 클러스터에 대해 알아보십시오"^]
+* https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/task-getting-started-fsx.html["ONTAP 작업 환경을 위한 Amazon FSx를 생성합니다"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-otc-aws.html["AWS에서 Cloud Volumes ONTAP를 시작합니다"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-otc-azure.html["Azure에서 Cloud Volumes ONTAP를 실행합니다"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-gcp.html["GCP에서 Cloud Volumes ONTAP를 시작합니다"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-adding-systems.html["기존 Cloud Volumes ONTAP 시스템을 추가합니다"^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["ONTAP 클러스터에 대해 알아보십시오"^]
 
 
 --
