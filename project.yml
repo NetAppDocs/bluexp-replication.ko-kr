@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Replication
+  name: BlueXP replication
   platform: cloud
   internal:
     pdf_enabled: true
@@ -11,13 +11,13 @@ settings:
   langs: ko-kr,us-en,ja-jp,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
-  - title: 복제 문서
+  - title: BlueXP 복제 문서
     url: "/index.html"
   - title: 릴리스 정보
     url: "/whats-new.html"
   - title: 시작하십시오
     entries:
-    - title: 복제 서비스에 대해 자세히 알아보십시오
+    - title: BlueXP 복제에 대해 알아보십시오
       url: "/concept-replication.html"
     - title: 데이터 복제 설정
       url: "/task-replicating-data.html"
@@ -41,11 +41,11 @@ homepage:
   tiles:
   - title: 시작하십시오
     links:
-    - title: 복제 서비스에 대해 자세히 알아보십시오
+    - title: BlueXP 복제에 대해 알아보십시오
       url: concept-replication.html
     - title: 데이터 복제 설정
       url: task-replicating-data.html
-  - title: 복제 서비스를 사용합니다
+  - title: BlueXP 복제를 사용합니다
     links:
     - title: 데이터 복제 관리
       url: task-managing-replication.html

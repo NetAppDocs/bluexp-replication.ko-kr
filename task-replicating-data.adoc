@@ -28,7 +28,7 @@ summary: 데이터 전송을 위한 일회성 데이터 복제 또는 재해 복
 * https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/task-getting-started-fsx.html["ONTAP 작업 환경을 위한 Amazon FSx를 생성합니다"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-otc-aws.html["AWS에서 Cloud Volumes ONTAP를 시작합니다"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-otc-azure.html["Azure에서 Cloud Volumes ONTAP를 실행합니다"^]
-* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-gcp.html["GCP에서 Cloud Volumes ONTAP를 시작합니다"^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-gcp.html["Google Cloud에서 Cloud Volumes ONTAP를 실행합니다"^]
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-adding-systems.html["기존 Cloud Volumes ONTAP 시스템을 추가합니다"^]
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["ONTAP 클러스터에 대해 알아보십시오"^]
 
@@ -121,4 +121,4 @@ image:screenshot-drag-and-drop.png["스크린샷: 데이터 복제 프로세스�
 
 
 .결과
-BlueXP는 데이터 복제 프로세스를 시작합니다. 복제 서비스에서 볼륨 관계에 대한 세부 정보를 볼 수 있습니다.
+BlueXP는 데이터 복제 프로세스를 시작합니다. BlueXP 복제 서비스에서 볼륨 관계에 대한 세부 정보를 볼 수 있습니다.

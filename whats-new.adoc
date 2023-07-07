@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: whats-new.html 
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
-summary: 'BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기능에 대해 알아보십시오.' 
+summary: BlueXP 복제의 새로운 기능에 대해 알아보십시오. 
 ---
 = 새로운 기능
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 'BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기�
 
 
 [role="lead"]
-BlueXP(이전의 Cloud Manager)의 복제 서비스의 새로운 기능에 대해 알아보십시오.
+BlueXP 복제의 새로운 기능에 대해 알아보십시오.
 
 
 
@@ -64,6 +64,6 @@ https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["데
 
 === 인터페이스가 재설계되었습니다
 
-사용 편의성과 Cloud Manager 사용자 인터페이스의 현재 모양과 느낌을 맞추기 위해 Replication 탭을 다시 설계했습니다.
+사용 편의성과 사용자 인터페이스의 현재 모양과 느낌을 맞추기 위해 복제 서비스를 다시 설계했습니다.
 
 image:https://raw.githubusercontent.com/NetAppDocs/bluexp-replication/main/media/replication.gif["볼륨 관계 목록을 보여 주는 Cloud Manager의 재설계된 복제 탭 스크린샷"]
