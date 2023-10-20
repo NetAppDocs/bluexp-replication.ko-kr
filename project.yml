@@ -14,7 +14,9 @@ sidebar:
   - title: BlueXP 복제 문서
     url: "/index.html"
   - title: 릴리스 정보
-    url: "/whats-new.html"
+    entries:
+    - title: 새로운 소식
+      url: "/whats-new.html"
   - title: 시작하십시오
     entries:
     - title: BlueXP 복제에 대해 알아보십시오
@@ -23,11 +25,11 @@ sidebar:
       url: "/task-replicating-data.html"
   - title: 데이터 복제 관리
     url: "/task-managing-replication.html"
-  - title: 개념
+  - title: 자세한 정보
     entries:
-    - title: 복제 정책
+    - title: 복제 정책에 대해 자세히 알아보십시오
       url: "/concept-replication-policies.html"
-    - title: 백업 정책
+    - title: 백업 정책에 대해 자세히 알아봅니다
       url: "/concept-backup-policies.html"
   - title: 지식 및 지원
     entries:

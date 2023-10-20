@@ -28,7 +28,6 @@
   <block id="5057fdb214d9f3773bc386ba2aa1fcb0" category="section-title">2021년 5월 5일</block>
   <block id="1473f0729c8bea54a5077a19ab764c47" category="section-title">인터페이스가 재설계되었습니다</block>
   <block id="0f9405518138d20fd96d78fe19dabf84" category="inline-image-macro">볼륨 관계 목록을 보여 주는 Cloud Manager의 재설계된 복제 탭 스크린샷</block>
-  <block id="2e4ca84ff13f65389599985c5d2a9f08" category="doc">일정 및 관계 관리</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="775f5846d28de12857c9c89ae5d4a6e1" category="list-text">데이터 복제 관계의 상태를 검토하여 상태가 양호한지 확인합니다.</block>
   <block id="384cf3526eba01b7701f7fde08ba751e" category="admonition">관계의 상태가 유휴 상태이고 미러 상태가 초기화되지 않은 경우 정의된 일정에 따라 데이터 복제가 수행되도록 대상 시스템에서 관계를 초기화해야 합니다. System Manager 또는 CLI(Command-Line Interface)를 사용하여 관계를 초기화할 수 있습니다. 이러한 상태는 대상 시스템에 장애가 발생한 후 다시 온라인 상태가 될 때 나타날 수 있습니다.</block>
@@ -70,7 +69,6 @@
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
   <block id="aa03d16eacb954c7af08d5001cd67507" category="doc">데이터 복제 설정</block>
   <block id="745cc81e54713a1702ada65f4b222bce" category="paragraph">데이터 전송을 위한 일회성 데이터 복제 또는 재해 복구 또는 장기 보존을 위한 반복 일정을 선택하여 ONTAP 작업 환경 간에 데이터를 복제할 수 있습니다. 예를 들어, 재해 복구를 위해 사내 ONTAP 시스템에서 Cloud Volumes ONTAP로 데이터 복제를 설정할 수 있습니다.</block>
-  <block id="992753e7f234853a9e0f96d1ff637271" category="section-title">데이터 복제 요구 사항</block>
   <block id="3f5c98f2da3fd65fbbfa955b13a433ab" category="paragraph">데이터를 복제하기 전에 Cloud Volumes ONTAP, 온프레미스 ONTAP 클러스터 또는 ONTAP용 Amazon FSx에 대한 특정 요구 사항이 충족되는지 확인해야 합니다.</block>
   <block id="8e7eaac4ef6ddba0d9f93228ce3ac6e7" category="list-text">작업 환경</block>
   <block id="4afa74830ae584f2b792dfe5b6c79ccc" category="list-text">아직 작성하지 않은 경우 데이터 복제 관계에서 소스와 타겟의 작업 환경을 생성해야 합니다.</block>
@@ -89,7 +87,6 @@
   <block id="8c4a805dde66a7461e7760fe982d066f" category="list-text">활성 SnapMirror 라이센스가 설치되어 있어야 합니다.</block>
   <block id="1fbce003d68708feb24931b9e6366f50" category="list-text">ONTAP 클러스터는 추가 서브넷, 포트, 방화벽 및 클러스터 요구사항을 충족해야 합니다.</block>
   <block id="4f473a2a941d4fd7b4a68e3cd98e934c" category="list-text">ONTAP용 Amazon FSx에 대한 요구 사항</block>
-  <block id="58e046b3f4ec304e4456cda8151a574b" category="section-title">시스템 간 데이터 복제</block>
   <block id="ab180709f75f8b8d74709444b839ccd3" category="paragraph">1회 데이터 복제를 선택하여 데이터를 복제할 수 있습니다. 이 복제를 사용하면 클라우드 간에 데이터를 이동하거나, 재해 복구 또는 장기 보존에 도움이 되는 반복 일정을 선택할 수 있습니다.</block>
   <block id="f058b2239a935219edfc3818d7b5cb9e" category="inline-image-macro">스크린샷: 데이터 복제 프로세스를 시작하기 위해 다른 작업 환경 위에 작업 환경을 배치하는 것을 보여 줍니다.</block>
   <block id="362a388c30edcb2f99cceb3fe86d98c1" category="list-text">* 소스 및 대상 피어링 설정 *: 이 페이지가 나타나면 클러스터 피어 관계에 대한 모든 LIF를 선택합니다.</block>
@@ -128,9 +125,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하십시오</block>
   <block id="c27a58445f6be9881526a37e46bb7d26" category="sidebar">데이터 복제 관리</block>
-  <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">개념</block>
-  <block id="fa26829830efe73376071e3b30f66d6a" category="sidebar">복제 정책</block>
-  <block id="9f02509e5496e861df4c341dba05386e" category="sidebar">백업 정책</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식 및 지원</block>
   <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 커뮤니티</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
@@ -373,4 +367,9 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">클라우드 공급자의 파일 서비스에 대한 지원을 받습니다</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자의 파일 서비스, 자체 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 BlueXP 설명서에서 "도움말 얻기"를 참조하십시오.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 및 해당 스토리지 솔루션 및 서비스에 관한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
+  <block id="46ebfd1e0393caa0f34b574489afb56f" category="section-title">1단계: 데이터 복제 요구 사항 검토</block>
+  <block id="94d63941f5733e2475f76dcc24cbaab4" category="section-title">2단계: 시스템 간 데이터 복제</block>
+  <block id="30926cdd94e56dd228449e15c0e4474c" category="doc">백업 정책에 대해 자세히 알아봅니다</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
+  <block id="d59048f21fd887ad520398ce677be586" category="sidebar">자세한 정보</block>
 </blocks>
