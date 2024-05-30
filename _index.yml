@@ -1,0 +1,25 @@
+---
+indexpage:
+  title: BlueXP 복제 설명서
+  summary: ONTAP 스토리지 시스템 간에 데이터를 복제하여 클라우드 또는 클라우드 간 백업 및 재해 복구를 지원합니다.
+  keywords: replicate, storage systems, disaster recovery, cloud
+  lead: ONTAP 스토리지 시스템 간에 데이터를 복제하여 클라우드 또는 클라우드 간 백업 및 재해 복구를 지원합니다.
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: BlueXP 복제에 대해 알아보십시오
+      url: concept-replication.html
+    - title: 데이터 복제 설정
+      url: task-replicating-data.html
+  - title: BlueXP 복제를 사용합니다
+    links:
+    - title: 데이터 복제 관리
+      url: task-managing-replication.html
+  - title: 블로그 커뮤니티
+    links:
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: BlueXP 블로그
+      url: https://cloud.netapp.com/blog
+    - title: 클라우드 웨비나
+      url: https://cloud.netapp.com/events
