@@ -1,0 +1,15 @@
+= ONTAP용 FSX를 데이터 소스로 사용합니다
+:allow-uri-read: 
+
+
+
+
+=== ONTAP용 FSX를 데이터 소스로 사용합니다
+
+이제 Amazon FSx for ONTAP 파일 시스템에서 다음 대상으로 데이터를 복제할 수 있습니다.
+
+* ONTAP용 Amazon FSx
+* 사내 ONTAP 클러스터
+
+
+https://docs.netapp.com/us-en/bluexp-replication/task-replicating-data.html["데이터 복제를 설정하는 방법에 대해 알아보십시오"].
