@@ -1,5 +1,7 @@
 = ONTAP용 Amazon FSx 지원
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
 

@@ -1,5 +1,7 @@
 = ONTAP에서 Cloud Volumes ONTAP로 FSX
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
 
