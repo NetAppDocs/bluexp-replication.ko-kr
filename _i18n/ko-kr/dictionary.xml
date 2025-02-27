@@ -52,7 +52,6 @@
   <block id="06933067aafd48425d67bcb01bba5cb6" category="cell">업데이트</block>
   <block id="16685aa35f9f2843a357407642b0d7d9" category="cell">대상 볼륨을 업데이트하기 위해 증분 전송을 시작합니다.</block>
   <block id="f2a6c498fb90ee345d997f888fce3b18" category="cell">삭제</block>
-  <block id="09cd2e52d52004647bc6c39549be0b94" category="cell">소스 볼륨과 타겟 볼륨 간의 데이터 보호 관계를 삭제합니다. 즉, 볼륨 간에 데이터 복제가 더 이상 발생하지 않습니다. 이 작업을 수행해도 데이터 액세스를 위한 대상 볼륨은 활성화되지 않습니다. 이 작업을 수행하면 시스템 간에 다른 데이터 보호 관계가 없는 경우 클러스터 피어 관계 및 스토리지 VM(SVM) 피어 관계도 삭제됩니다.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">도움을 받으십시오</block>
   <block id="f44753cd1ded9ad0818a4d62481460e9" category="summary">미러 정책과 달리 백업 SnapVault 정책은 특정 스냅샷 복사본을 타겟 볼륨에 복제합니다. 기본 정책 대신 고유한 정책을 사용하려는 경우 백업 정책의 작동 방식을 이해하는 것이 중요합니다.</block>
   <block id="77ae0badcc9669dcf09b0b6ddb602a5a" category="paragraph">미러 정책과 달리 백업(SnapVault) 정책은 특정 스냅샷 복사본을 타겟 볼륨에 복제합니다. 기본 정책 대신 고유한 정책을 사용하려는 경우 백업 정책의 작동 방식을 이해하는 것이 중요합니다.</block>
@@ -366,4 +365,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAP에서 다음과 같은 주요 워크플로우를 사용하려면 NetApp 지원 사이트 자격 증명을 BlueXP  조직과 연결해야 합니다.</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSS 자격 증명을 BlueXP  조직과 연결하는 것은 BlueXP  사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">이러한 NSS 자격 증명은 특정 BlueXP  조직 ID와 연결됩니다. BlueXP  조직에 속한 사용자는 * 지원 &gt; NSS 관리 * 에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
+  <block id="d1325501ee070fd499d61b4cb3ec234d" category="cell">소스 볼륨과 타겟 볼륨 간의 데이터 보호 관계를 삭제합니다. 즉, 볼륨 간에 데이터 복제가 더 이상 발생하지 않습니다. 이 작업을 수행해도 데이터 액세스를 위한 대상 볼륨은 활성화되지 않습니다.</block>
 </blocks>
