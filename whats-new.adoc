@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: whats-new.html 
-keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes' 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, releases' 
 summary: BlueXP 복제의 새로운 기능에 대해 알아보십시오. 
 ---
 = 새로운 기능
